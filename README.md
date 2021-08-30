@@ -1,6 +1,6 @@
 # adult_salary
 
-###HOME PAGE
+#HOME PAGE
         
     Where the user will enter their details such as,
        1. Age,
