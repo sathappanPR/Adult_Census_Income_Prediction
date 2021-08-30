@@ -1,6 +1,7 @@
 # adult_salary
 
 HOME PAGE
+
 where the user will enter theri details!
 
 
