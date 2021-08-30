@@ -20,7 +20,7 @@ HOME PAGE
 
 RESULT PAGE
 
-	Predicted output will displayed wehther the person salary is more than 50k or less than 50k
+	Predicted output will displayed, wehther the person salary is more than 50k or less than 50k
 
 ![image](https://user-images.githubusercontent.com/84607354/131341779-cfefa8db-b2c3-4b30-ba23-2995da12d2bc.png)
 
