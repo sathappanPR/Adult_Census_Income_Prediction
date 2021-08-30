@@ -1,8 +1,7 @@
 # adult_salary
 
-HOME PAGE
-        
-    Where the user will enter their details such as,
+HOME PAGE<br/>
+Where the user will enter their details such as,
        1. Age,
        2. Workclass,
        3. Education,
@@ -15,12 +14,11 @@ HOME PAGE
        10. capital-loss,
        11. hours-per-week,
        12. country
-               
+ 
 ![image](https://user-images.githubusercontent.com/84607354/131341733-407f08d3-33be-4af2-a31a-9b7a11cf082c.png)
-
-###RESULT PAGE
-
-	Predicted output will displayed, wehther the person salary is more than 50k or less than 50k
+    
+RESULT PAGE<br/>
+Predicted output will displayed, wehther the person salary is more than 50k or less than 50k
 
 ![image](https://user-images.githubusercontent.com/84607354/131341779-cfefa8db-b2c3-4b30-ba23-2995da12d2bc.png)
 
