@@ -3,18 +3,18 @@
 HOME PAGE
         
       •	Where the user will enter their details such as,
-1.	Age,
-2.	Workclass,
-3.	Education,
-4.	marital-status,
-5.	occupation,
-6.	relationship,
-7.	race,
-8.	sex,
-9.	capital-gain,
-10.	capital-loss,
-11.	hours-per-week,
-12.	country,
+        1.	Age,
+        2.	Workclass,
+        3.	Education,
+        4.	marital-status,
+        5.	occupation,
+        6.	relationship,
+        7.	race,
+        8.	sex,
+        9.	capital-gain,
+        10.	capital-loss,
+        11.	hours-per-week,
+        12.	country,
 
 
 ![image](https://user-images.githubusercontent.com/84607354/131341733-407f08d3-33be-4af2-a31a-9b7a11cf082c.png)
