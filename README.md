@@ -33,6 +33,6 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 •	Dataset is provided by the iNeuron.<br/>
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2020%2F05%2F22%2Fthe-9-best-analytics-tools-for-data-visualization-available-today%2F&psig=AOvVaw2kufiNQKHESJkgvEXXp8tr&ust=1630431297253000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiSr4ak2fICFQAAAAAdAAAAABAD
 
 https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
