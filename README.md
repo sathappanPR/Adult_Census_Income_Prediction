@@ -28,6 +28,7 @@ HOME PAGE
 
 ## 📝 Description
 This implemantation is based on official Alphapose repository https://github.com/MVIG-SJTU/AlphaPose
+
 In this project we have used Alphapose and XGBOOST for activity recognition.
 
 https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
