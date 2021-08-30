@@ -1,6 +1,6 @@
 # adult_salary
 
-HOME PAGE
+###HOME PAGE
         
     Where the user will enter their details such as,
        1. Age,
@@ -18,7 +18,7 @@ HOME PAGE
                
 ![image](https://user-images.githubusercontent.com/84607354/131341733-407f08d3-33be-4af2-a31a-9b7a11cf082c.png)
 
-RESULT PAGE
+###RESULT PAGE
 
 	Predicted output will displayed, wehther the person salary is more than 50k or less than 50k
 
@@ -26,7 +26,7 @@ RESULT PAGE
 
 ![image](https://user-images.githubusercontent.com/84607354/131343073-b8a42c47-731a-4543-859a-97578e4af523.png)
 
-### Description
+## Description
 
 
 https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
