@@ -25,8 +25,12 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 ![image](https://user-images.githubusercontent.com/84607354/131343073-b8a42c47-731a-4543-859a-97578e4af523.png)
 
 ## 📝 Description
-This implemantation is based on Adult Census Income Prediction.<br/>
-In this project we have used DecisionTree algorithm to make a model.<br/>
-Flask is used to make web application.
+•	This implementation is based on Adult Census Income Prediction.<br/>
+•	In this project we have used DecisionTree algorithm to make a model.<br/>
+•	Flask is used to make web application.
+
+##⏳ Dataset
+Download the dataset for custom training
+
 
 https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
