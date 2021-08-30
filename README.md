@@ -30,7 +30,7 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 •	Flask is used to make web application.
 
 ## ⏳ Dataset
-•	Dataset is provided by the iNeuron 
+•	Dataset is provided by the iNeuron.<br/>
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
 
