@@ -6,21 +6,21 @@
        1. Age, 
        2. Workclass,
        3. Education,
-       4. marital-status,
-       5. occupation,
-       6. relationship,
-       7. race,
-       8. sex,
-       9. capital-gain,
-       10. capital-loss,
-       11. hours-per-week,
-       12. country
+       4. Marital-status,
+       5. Occupation,
+       6. Relationship,
+       7. Race,
+       8. Sex,
+       9. Capital gain,
+       10. Capital loss,
+       11. Hours per week,
+       12. Country
 
  
 ![image](https://user-images.githubusercontent.com/84607354/131341733-407f08d3-33be-4af2-a31a-9b7a11cf082c.png)
     
 ### RESULT PAGE<br/>
-•	Predicted output will displayed, the person salary is more than 50k or less than 50k
+•	Predicted output will be displayed, either as the person's salary is more than 50k or less than 50k
 
 ![image](https://user-images.githubusercontent.com/84607354/131341779-cfefa8db-b2c3-4b30-ba23-2995da12d2bc.png)
 
@@ -36,26 +36,25 @@
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131429508-6ff8e3e0-7968-477f-9afe-0f946849e396.png" width="40"> Data Visualization
-•	It is done using the tableau<br/>
+•	It is done using tableau<br/>
 •	https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
 
 ## ⚙️ Setup
-1. Instal:-
+1. Install:-
 
    pip install pandas <br/>
-      pip install numpy<br/>
-      pip install matplotlib.pyplot<br/>
-      pip install seaborn<br/>
-    
-  other libary's which are all required to this project 
+   pip install numpy<br/>
+   pip install matplotlib.pyplot<br/>
+   pip install seaborn<br/>
+other libaries which are all required for this project 
   
 ## <img src="https://user-images.githubusercontent.com/84607354/131457739-ffcd1c9e-159d-42dd-8237-a0bb1882fc2d.png" width="40"> Deployment
-•	The Web frame is made using falsk in python<br/>
-•	Web frame work is deployed in Heroku <br/>
+•	The Web framework is made using flask in python<br/>
+•	Web framework is deployed in Heroku <br/>
 •	https://salarycountry.herokuapp.com/<br/>
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40">Contributors 
-•  Susan Elizabeth Varghese<br/>
+•   Susan Elizabeth Varghese<br/>
 •	Milind Sai C<br/>
 •	Jebin R<br/>
 •	Marchetty Pavan Sai <br/>
