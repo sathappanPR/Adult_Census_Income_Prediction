@@ -40,7 +40,7 @@ RESULT PAGE<br/>
 •	https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
 
 ## ⚙️ Setup
-1. instal:-
+1. Instal:-
 
    pip install pandas <br/>
       pip install numpy<br/>
