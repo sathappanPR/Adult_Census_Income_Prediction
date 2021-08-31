@@ -35,7 +35,7 @@ RESULT PAGE<br/>
 •	Dataset is provided by the iNeuron.<br/>
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
-## <img src="https://user-images.githubusercontent.com/84607354/131429508-6ff8e3e0-7968-477f-9afe-0f946849e396.png" width="40"> Data Visulation
+## <img src="https://user-images.githubusercontent.com/84607354/131429508-6ff8e3e0-7968-477f-9afe-0f946849e396.png" width="40"> Data Visualization
 •	It is done using the tableau<br/>
 •	https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
 
