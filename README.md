@@ -24,7 +24,7 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 
 ![image](https://user-images.githubusercontent.com/84607354/131343073-b8a42c47-731a-4543-859a-97578e4af523.png)
 
-## <img src="https://user-images.githubusercontent.com/84607354/131428371-1bc0df88-6f2a-4a5d-b017-5813116110b9.png" width="48"> Description
+## <img src="https://user-images.githubusercontent.com/84607354/131428371-1bc0df88-6f2a-4a5d-b017-5813116110b9.png" width="40"> Description
 •	This implementation is based on Adult Census Income Prediction.<br/>
 •	In this project we have used DecisionTree algorithm to make a model.<br/>
 •	Flask is used to make web application.
