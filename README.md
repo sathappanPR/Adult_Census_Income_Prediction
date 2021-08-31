@@ -2,8 +2,8 @@
 
 HOME PAGE<br/>
     •  Where the user will enter their details such as
-        1. Age,
-        2. Workclass,
+        1. Age,         2. Workclass,
+        
         3. Education,
         4. marital-status,
         5. occupation,
