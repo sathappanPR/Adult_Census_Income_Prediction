@@ -43,9 +43,9 @@ RESULT PAGE<br/>
 1. instal:-
 
    pip install pandas <br/>
-      pip install numpy
-      pip install matplotlib.pyplot
-      pip install seaborn
+      pip install numpy<br/>
+      pip install matplotlib.pyplot<br/>
+      pip install seaborn<br/>
     
   other libary's which are all required to this project 
 
