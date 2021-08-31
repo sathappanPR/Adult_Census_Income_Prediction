@@ -48,6 +48,12 @@
       pip install seaborn<br/>
     
   other libary's which are all required to this project 
+  
+## <img src="https://user-images.githubusercontent.com/84607354/131457739-ffcd1c9e-159d-42dd-8237-a0bb1882fc2d.png" width="40"> Deployment
+•	The Web frame is made using falsk in python
+•	Web frame work is deployed in Heroku 
+•	https://salarycountry.herokuapp.com/
+
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40">Contributors 
 •  Susan Elizabeth Varghese<br/>
