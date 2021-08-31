@@ -34,5 +34,5 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131429508-6ff8e3e0-7968-477f-9afe-0f946849e396.png" width="40"> Data Visulation
-•	It is done using he tableau
+•	It is done using he tableau<br/>
 •	https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
