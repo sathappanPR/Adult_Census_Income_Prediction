@@ -41,3 +41,13 @@ RESULT PAGE<br/>
 
 ## ⚙️ Setup
 1. install:-
+    
+    pip install pandas 
+    
+    pip install numpy
+    
+    pip install matplotlib.pyplot
+    
+    pip install seaborn
+    
+    
