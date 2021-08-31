@@ -29,7 +29,7 @@ Predicted output will displayed, wehther the person salary is more than 50k or l
 •	In this project we have used DecisionTree algorithm to make a model.<br/>
 •	Flask is used to make web application.
 
-## <img src="https://user-images.githubusercontent.com/84607354/131429181-4a44f85b-5bf1-4535-ad96-04285c61bdd8.png" width="40" height="40"> Dataset
+## <img src="https://user-images.githubusercontent.com/84607354/131429377-dcb83d76-46bf-43e0-85e0-8806d651293d.png" width="40" > Dataset
 •	Dataset is provided by the iNeuron.<br/>
 •	https://www.kaggle.com/overload10/adult-census-dataset
 
