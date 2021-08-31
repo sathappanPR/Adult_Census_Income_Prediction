@@ -42,13 +42,13 @@ RESULT PAGE<br/>
 ## ⚙️ Setup
 1. install:-
     
-    pip install pandas 
+        pip install pandas <br/>
 
-    pip install numpy
+        pip install numpy
 
-    pip install matplotlib.pyplot
+        pip install matplotlib.pyplot
 
-    pip install seaborn
+        pip install seaborn
     
   other libary's which are all required to this project 
 
