@@ -50,10 +50,10 @@ RESULT PAGE<br/>
   other libary's which are all required to this project 
 
 ## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40">Contributors 
-•  Susan Elizabeth Varghese
-•	Milind Sai C
-•	Jebin R
-•	Marchetty Pavan Sai 
+•  Susan Elizabeth Varghese<br/>
+•	Milind Sai C<br/>
+•	Jebin R<br/>
+•	Marchetty Pavan Sai <br/>
 
     
   
