@@ -1,4 +1,4 @@
-# adult_salary
+# <img src="https://user-images.githubusercontent.com/84607354/131432422-86f825c6-1116-4f2b-a274-5eb6afeb5e5e.png" width="40">adult_salary
 
 HOME PAGE<br/>
     •  Where the user will enter their details such as
