@@ -1,7 +1,7 @@
 # adult_salary
 
 HOME PAGE<br/>
-•	Where the user will enter their details such as,<br/>
+•Where the user will enter their details such as,<br/>
     1. Age,
     2. Workclass,
     3. Education,
