@@ -40,8 +40,9 @@ RESULT PAGE<br/>
 •	https://public.tableau.com/app/profile/sathappan.pr/viz/adult_16297832408430/1
 
 ## ⚙️ Setup
-1. instal
-$ pip install pandas <br/>
+1. instal:-
+
+   pip install pandas <br/>
       pip install numpy
       pip install matplotlib.pyplot
       pip install seaborn
