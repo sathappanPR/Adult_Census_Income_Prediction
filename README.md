@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/84607354/131432422-86f825c6-1116-4f2b-a274-5eb6afeb5e5e.png" width="40">Adult Census Income Prediction
 
-## HOME PAGE<br/>
+### HOME PAGE<br/>
     •  Where the user will enter their details such as
  
        1. Age, 
@@ -19,7 +19,7 @@
  
 ![image](https://user-images.githubusercontent.com/84607354/131341733-407f08d3-33be-4af2-a31a-9b7a11cf082c.png)
     
-## RESULT PAGE<br/>
+### RESULT PAGE<br/>
 •	Predicted output will displayed, the person salary is more than 50k or less than 50k
 
 ![image](https://user-images.githubusercontent.com/84607354/131341779-cfefa8db-b2c3-4b30-ba23-2995da12d2bc.png)
