@@ -43,8 +43,9 @@ RESULT PAGE<br/>
 1. install:-
     
         pip install pandas <br/>
-
         pip install numpy
+
+        
 
         pip install matplotlib.pyplot
 
