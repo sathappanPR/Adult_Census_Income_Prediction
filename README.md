@@ -53,7 +53,7 @@ other libaries which are all required for this project
 •	Web framework is deployed in Heroku <br/>
 •	https://salarycountry.herokuapp.com/<br/>
 
-## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40">Contributors 
+## <img src="https://user-images.githubusercontent.com/84607354/131432262-f86ad078-0c06-4f0a-8a98-fa6249030c2b.png" width="40"> Contributors 
 •   Susan Elizabeth Varghese<br/>
 •	Milind Sai C<br/>
 •	Jebin R<br/>
