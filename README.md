@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/84607354/131432422-86f825c6-1116-4f2b-a274-5eb6afeb5e5e.png" width="40"> Adult Census Income Prediction
 
-https://user-images.githubusercontent.com/84607354/132016487-11a279f6-ed6e-45b2-9657-b12a792de514.mp4
+https://user-images.githubusercontent.com/84607354/132016783-628e452f-1d31-4aa5-83c5-3d775f1e7f62.mp4
 
 ### HOME PAGE<br/>
     •  Where the user will enter their details such as
